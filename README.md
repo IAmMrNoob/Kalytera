@@ -99,7 +99,6 @@ I'll update it soon when i think of something for it
 
     if you left some animations opened it is recomended to just remove those from the tempalte when pasted in your executer as they have default animations
 
-    It seems like i need to fix it rn but when i release v1.0c it'll be fixed but the template should look like this and since i only added the Idle animation i will remove the rest
 
     ![](https://media.discordapp.net/attachments/964747509379506259/1068694182400635010/image.png)
 
